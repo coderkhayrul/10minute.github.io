@@ -1,0 +1,293 @@
+/* XXL (laptop) Device :1200px. */
+@media (min-width: 1400px) and (max-width: 1650px) {}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .addmision_test_part .addmision_test_item .addmision_test_item_cont h4 {
+        padding: 33px 0px;
+        font-size: 18px;
+    }
+
+    .all_course_navs_part .nav-tabs .nav-item .nav-link {
+        padding: 7.5px 15px;
+        margin: 5px 5px;
+    }
+
+    .our_arojon_part .apps_dtls_part .apps_dtls_content a img {
+        width: 160px;
+    }
+
+    footer .footer_btm_part .ft_logo a img {
+        width: 157px;
+        height: 50px;
+    }
+}
+
+
+/* LG Device :992px. */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    h4 {
+        font-size: 18px;
+    }
+
+    .addmision_test_part .addmision_test_item .addmision_test_item_cont h4 {
+        padding: 13px 0px;
+    }
+
+    .feedback_slide_item_hed {
+        padding-left: 20px;
+    }
+
+    .our_arojon_part .apps_dtls_part .apps_dtls_content h5 {
+        font-size: 15px;
+    }
+
+    .our_arojon_part .apps_dtls_part .apps_dtls_content a img {
+        width: 160px;
+    }
+
+    footer .footer_top_part .footer_top_item ul li a {
+        font-size: 13px;
+    }
+
+    footer .footer_btm_part .ft_scoial h6 {
+        font-size: 14px;
+    }
+
+    footer .footer_btm_part .ft_scoial ul li a {
+        margin-right: 8px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    h3 {
+        font-size: 22px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    .pb_90 {
+        padding-bottom: 60px;
+    }
+
+    .pt_90 {
+        padding-top: 60px;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: rgba(22, 72, 162, 0.96);
+        border-color: rgba(22, 72, 162, 0.96);
+
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(22, 72, 162, 0.96)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+
+    .our_course_part .course_all_menu .course_all_menu_item a i {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .special_course_part .special_course_item ul li {
+        font-size: 14px;
+    }
+
+    .class_course_part .class_course_item ul li {
+        font-size: 13px;
+    }
+
+    .addmision_test_part .addmision_test_item .addmision_test_item_cont h4 {
+        padding: 13px 0px;
+    }
+
+    .feedback_slide_item_hed {
+        padding-left: 20px;
+    }
+
+    .our_arojon_part .our_arojon_item h2 {
+        font-size: 25px;
+    }
+
+    .our_arojon_part .apps_dtls_part .apps_dtls_content h3 {
+        font-size: 20px;
+    }
+
+    .our_arojon_part .apps_dtls_part .apps_dtls_content h5 {
+        font-size: 14px;
+    }
+
+    .our_arojon_part .apps_dtls_part .apps_dtls_content a img {
+        width: 160px;
+    }
+}
+
+
+
+/* -- Phone Landscape -- */
+
+@media (min-width: 576px) and (max-width: 767px) {
+    h1 {
+        font-size: 34px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 28px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
+
+    h5 {
+        font-size: 18px;
+    }
+
+    h6 {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .pb_90 {
+        padding-bottom: 60px;
+    }
+
+    .pt_90 {
+        padding-top: 60px;
+    }
+
+
+
+    .navbar-light .navbar-toggler {
+        color: rgba(22, 72, 162, 0.96);
+        border-color: rgba(22, 72, 162, 0.96);
+
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(22, 72, 162, 0.96)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+
+    .course_all_menu_item {
+        margin-top: 20px;
+    }
+
+    .class_course_part .class_course_item ul {
+        padding: 0px 15px 10px;
+    }
+
+    .addmision_test_part .addmision_test_item .addmision_test_item_cont h4 {
+        padding: 17px 0px;
+    }
+
+    .all_course_navs_part .nav-tabs .nav-item .nav-link {
+        padding: 7.5px 15px;
+        margin: 5px 6px;
+    }
+
+    .feedback_slide_item_hed {
+        padding-left: 20px;
+    }
+
+    .our_arojon_img {
+        text-align: center;
+    }
+}
+
+
+/* mobile size 480 small Device. */
+
+@media (min-width: 400px) and (max-width: 480px) {}
+
+
+/* Extra small Device. */
+
+@media (min-width: 320px) and (max-width: 575px) {
+    h1 {
+        font-size: 31px;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    h6 {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .pb_90 {
+        padding-bottom: 60px;
+    }
+
+    .pt_90 {
+        padding-top: 60px;
+    }
+
+    .py_90 {
+        padding: 60px 0px 60px;
+    }
+
+    .py_6090 {
+        padding: 30px 0px 60px;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: rgba(22, 72, 162, 0.96);
+        border-color: rgba(22, 72, 162, 0.96);
+
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(22, 72, 162, 0.96)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    .banner_part {
+        padding: 100px 0px;
+    }
+
+    .course_all_menu_item {
+        margin-top: 20px;
+    }
+
+    .class_course_part .class_course_item ul {
+        padding: 0px 15px 10px;
+    }
+
+    .feedback_slide_item_hed {
+        padding-left: 20px;
+    }
+
+    footer .footer_btm_part .ft_scoial h6 {
+        font-size: 14px;
+    }
+}
+
